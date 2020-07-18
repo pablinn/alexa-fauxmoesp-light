@@ -5,6 +5,12 @@
 <p align="center">
   <img src="https://github.com/pablinn/alexa-fauxmoesp-light/blob/master/img/geany.png" width="350" title="hover text">  
 </p>
+
+<p>Agregar comando de compilacion a geany 
+<p align="center">
+  <img src="https://github.com/pablinn/alexa-fauxmoesp-light/blob/master/img/geany-pio.png" width="350" title="hover text">  
+</p>
+
 <p>Ide de programaicon Platformio
 
 
