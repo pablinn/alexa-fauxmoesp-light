@@ -1,6 +1,7 @@
 <p># alexa-fauxmoesp-light
 
 <p>Editor de texto y programacion geany 1.33
+![alt text](https://github.com/pablinn/alexa-fauxmoesp-light/blob/master/img/geany.png)
 <p>Ide de programaicon Platformio
 
 
