@@ -25,7 +25,8 @@
 <p>ESPAsyncWebserver
 <p>https://github.com/me-no-dev/ESPAsyncTCP.git
 
-<p>Fauxmoesp v3.0 only wor with esp8266 version esp01
+<p>Fauxmoesp v3.0 testeado solo en esp8266 version esp01 
+<p>En esp12/esp12e/esp07 no funciona fauxmoESP
 <p>git clone https://github.com/simap/fauxmoesp.git
 <p>git clone https://bitbucket.org/xoseperez/fauxmoesp.git
 <p>Dentro de source colocar main.cpp y pass.h
