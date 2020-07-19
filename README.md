@@ -36,6 +36,6 @@
 <p>#define WIFI_PASS         "tu password"
 
 <p>Ejemplo de aplicacion
-<p align="center">
-[![](http://img.youtube.com/vi/0cHOhjX6Wo4/0.jpg)](http://www.youtube.com/watch?v=0cHOhjX6Wo4 "lampara led controlada por alexa")
-</p>
+
+<p align="center">[![](http://img.youtube.com/vi/0cHOhjX6Wo4/0.jpg)](http://www.youtube.com/watch?v=0cHOhjX6Wo4 "lampara led controlada por alexa")
+
