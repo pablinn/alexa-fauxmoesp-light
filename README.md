@@ -18,6 +18,12 @@
 <p>platformio project init --board esp01
 
 
+<p>Diagrama EasyEDA
+<p align="center">
+  <img src="https://github.com/pablinn/alexa-fauxmoesp-light/blob/master/img/conexionado.png">  
+</p>
+
+
 <p>lib dependencias dentro de la carpeta o usar platformio para la gestion de librerias
 <p>ESPAsyncTCP
 <p>https://github.com/me-no-dev/AsyncTCP.git
