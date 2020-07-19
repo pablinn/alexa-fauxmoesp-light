@@ -35,6 +35,7 @@
 <p>#define WIFI_SSID         "tu router"    
 <p>#define WIFI_PASS         "tu password"
 
-<p>Ejemplo de aplicacion
-[![](http://img.youtube.com/vi/0cHOhjX6Wo4/0.jpg)](http://www.youtube.com/watch?v=0cHOhjX6Wo4 "lampara led controlada por alexa")
+<p>Ejemplo de aplicacion</p>
+<center>
 
+[![](http://img.youtube.com/vi/0cHOhjX6Wo4/0.jpg)](http://www.youtube.com/watch?v=0cHOhjX6Wo4 "lampara led controlada por alexa")
